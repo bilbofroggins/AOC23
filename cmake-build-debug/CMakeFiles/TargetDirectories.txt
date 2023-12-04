@@ -1,0 +1,5 @@
+/Users/pcunniff/Projects/c/AOC23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pcunniff/Projects/c/AOC23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pcunniff/Projects/c/AOC23/cmake-build-debug/day01/CMakeFiles/main.out.dir
+/Users/pcunniff/Projects/c/AOC23/cmake-build-debug/day01/CMakeFiles/edit_cache.dir
+/Users/pcunniff/Projects/c/AOC23/cmake-build-debug/day01/CMakeFiles/rebuild_cache.dir

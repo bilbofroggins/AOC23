@@ -1,0 +1,3 @@
+/Users/pcunniff/Projects/c/AdventofCode23/day01/cmake-build-debug/CMakeFiles/main.out.dir
+/Users/pcunniff/Projects/c/AdventofCode23/day01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pcunniff/Projects/c/AdventofCode23/day01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

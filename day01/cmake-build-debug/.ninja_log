@@ -1,0 +1,6 @@
+# ninja log v5
+0	164	1701611885177576921	CMakeFiles/main.out.dir/main.c.o	ebaa36c55bc12a6e
+165	196	1701611885209142666	main.out	857f0d60e1cdcc4a
+1	45	1701717589060799621	CMakeFiles/main.out.dir/dictionary.c.o	8bc811f578a2cf56
+1	46	1701717589061644867	CMakeFiles/main.out.dir/main.c.o	75bbec4ef0b01efc
+46	74	1701717589089423061	main.out	7b5fd108405b2cfc

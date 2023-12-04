@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/pcunniff/Projects/c/AOC23/day02/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics -o CMakeFiles/main.out.dir/main.c.o -c /Users/pcunniff/Projects/c/AOC23/day02/main.c",
+  "file": "/Users/pcunniff/Projects/c/AOC23/day02/main.c"
+}
+]
