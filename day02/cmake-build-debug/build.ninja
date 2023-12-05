@@ -55,6 +55,12 @@ build CMakeFiles/main.out.dir/main.c.o: C_COMPILER__main.2eout_Debug /Users/pcun
   OBJECT_DIR = CMakeFiles/main.out.dir
   OBJECT_FILE_DIR = CMakeFiles/main.out.dir
 
+build CMakeFiles/main.out.dir/dictionary.c.o: C_COMPILER__main.2eout_Debug /Users/pcunniff/Projects/c/AOC23/day02/dictionary.c || cmake_object_order_depends_target_main.out
+  DEP_FILE = CMakeFiles/main.out.dir/dictionary.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/main.out.dir
+  OBJECT_FILE_DIR = CMakeFiles/main.out.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target main.out
@@ -63,7 +69,7 @@ build CMakeFiles/main.out.dir/main.c.o: C_COMPILER__main.2eout_Debug /Users/pcun
 #############################################
 # Link the executable main.out
 
-build main.out: C_EXECUTABLE_LINKER__main.2eout_Debug CMakeFiles/main.out.dir/main.c.o
+build main.out: C_EXECUTABLE_LINKER__main.2eout_Debug CMakeFiles/main.out.dir/main.c.o CMakeFiles/main.out.dir/dictionary.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/main.out.dir
   POST_BUILD = :
